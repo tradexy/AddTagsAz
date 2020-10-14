@@ -1,0 +1,3 @@
+﻿VMName,ResourceGroup,Application,SubCat,Environment,AppOwner,Location
+tesTag1,tesTag1_group,WebVirtualMachine,Mortgages,ConnectedLive,John_Mosquera,London
+testTag2,testTag2_group,Chef_Server,JiraTeam,RootToLive,Unknown_Person,Copley
